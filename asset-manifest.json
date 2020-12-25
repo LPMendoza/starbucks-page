@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/starbucks-page/static/css/main.78ab39bd.chunk.css",
-    "main.js": "/starbucks-page/static/js/main.14aaa2b5.chunk.js",
-    "main.js.map": "/starbucks-page/static/js/main.14aaa2b5.chunk.js.map",
+    "main.css": "/starbucks-page/static/css/main.9e09b8de.chunk.css",
+    "main.js": "/starbucks-page/static/js/main.5204fedd.chunk.js",
+    "main.js.map": "/starbucks-page/static/js/main.5204fedd.chunk.js.map",
     "runtime-main.js": "/starbucks-page/static/js/runtime-main.32ae8079.js",
     "runtime-main.js.map": "/starbucks-page/static/js/runtime-main.32ae8079.js.map",
     "static/css/2.95f25948.chunk.css": "/starbucks-page/static/css/2.95f25948.chunk.css",
@@ -10,17 +10,23 @@
     "static/js/2.997819b5.chunk.js.map": "/starbucks-page/static/js/2.997819b5.chunk.js.map",
     "index.html": "/starbucks-page/index.html",
     "static/css/2.95f25948.chunk.css.map": "/starbucks-page/static/css/2.95f25948.chunk.css.map",
-    "static/css/main.78ab39bd.chunk.css.map": "/starbucks-page/static/css/main.78ab39bd.chunk.css.map",
+    "static/css/main.9e09b8de.chunk.css.map": "/starbucks-page/static/css/main.9e09b8de.chunk.css.map",
     "static/js/2.997819b5.chunk.js.LICENSE.txt": "/starbucks-page/static/js/2.997819b5.chunk.js.LICENSE.txt",
     "static/media/style.css": "/starbucks-page/static/media/flowers-background.23cc7fcb.svg",
+    "static/media/bakery.22da106a.jpg": "/starbucks-page/static/media/bakery.22da106a.jpg",
+    "static/media/coffe-hot.cc9a884b.jpg": "/starbucks-page/static/media/coffe-hot.cc9a884b.jpg",
     "static/media/img-banner-menu.1487a57d.png": "/starbucks-page/static/media/img-banner-menu.1487a57d.png",
-    "static/media/logo-starbucks.5750c12e.svg": "/starbucks-page/static/media/logo-starbucks.5750c12e.svg"
+    "static/media/logo-starbucks.5750c12e.svg": "/starbucks-page/static/media/logo-starbucks.5750c12e.svg",
+    "static/media/lunch.22f7c73e.jpg": "/starbucks-page/static/media/lunch.22f7c73e.jpg",
+    "static/media/snacks.4fdaccf5.jpg": "/starbucks-page/static/media/snacks.4fdaccf5.jpg",
+    "static/media/whole.9761b96b.jpg": "/starbucks-page/static/media/whole.9761b96b.jpg",
+    "static/media/yogurt.8ed64964.jpg": "/starbucks-page/static/media/yogurt.8ed64964.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.32ae8079.js",
     "static/css/2.95f25948.chunk.css",
     "static/js/2.997819b5.chunk.js",
-    "static/css/main.78ab39bd.chunk.css",
-    "static/js/main.14aaa2b5.chunk.js"
+    "static/css/main.9e09b8de.chunk.css",
+    "static/js/main.5204fedd.chunk.js"
   ]
 }
