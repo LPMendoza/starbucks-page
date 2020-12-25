@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/starbucks-page/static/css/main.78ab39bd.chunk.css",
-    "main.js": "/starbucks-page/static/js/main.ac8dd437.chunk.js",
-    "main.js.map": "/starbucks-page/static/js/main.ac8dd437.chunk.js.map",
+    "main.js": "/starbucks-page/static/js/main.6ef2c7b8.chunk.js",
+    "main.js.map": "/starbucks-page/static/js/main.6ef2c7b8.chunk.js.map",
     "runtime-main.js": "/starbucks-page/static/js/runtime-main.32ae8079.js",
     "runtime-main.js.map": "/starbucks-page/static/js/runtime-main.32ae8079.js.map",
     "static/css/2.95f25948.chunk.css": "/starbucks-page/static/css/2.95f25948.chunk.css",
-    "static/js/2.b95bc201.chunk.js": "/starbucks-page/static/js/2.b95bc201.chunk.js",
-    "static/js/2.b95bc201.chunk.js.map": "/starbucks-page/static/js/2.b95bc201.chunk.js.map",
+    "static/js/2.997819b5.chunk.js": "/starbucks-page/static/js/2.997819b5.chunk.js",
+    "static/js/2.997819b5.chunk.js.map": "/starbucks-page/static/js/2.997819b5.chunk.js.map",
     "index.html": "/starbucks-page/index.html",
     "static/css/2.95f25948.chunk.css.map": "/starbucks-page/static/css/2.95f25948.chunk.css.map",
     "static/css/main.78ab39bd.chunk.css.map": "/starbucks-page/static/css/main.78ab39bd.chunk.css.map",
-    "static/js/2.b95bc201.chunk.js.LICENSE.txt": "/starbucks-page/static/js/2.b95bc201.chunk.js.LICENSE.txt",
+    "static/js/2.997819b5.chunk.js.LICENSE.txt": "/starbucks-page/static/js/2.997819b5.chunk.js.LICENSE.txt",
     "static/media/style.css": "/starbucks-page/static/media/flowers-background.23cc7fcb.svg",
     "static/media/img-banner-menu.1487a57d.png": "/starbucks-page/static/media/img-banner-menu.1487a57d.png",
     "static/media/logo-starbucks.5750c12e.svg": "/starbucks-page/static/media/logo-starbucks.5750c12e.svg"
@@ -19,8 +19,8 @@
   "entrypoints": [
     "static/js/runtime-main.32ae8079.js",
     "static/css/2.95f25948.chunk.css",
-    "static/js/2.b95bc201.chunk.js",
+    "static/js/2.997819b5.chunk.js",
     "static/css/main.78ab39bd.chunk.css",
-    "static/js/main.ac8dd437.chunk.js"
+    "static/js/main.6ef2c7b8.chunk.js"
   ]
 }
