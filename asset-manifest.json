@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/starbucks-page/static/css/main.721ba777.chunk.css",
-    "main.js": "/starbucks-page/static/js/main.7a3d73c4.chunk.js",
-    "main.js.map": "/starbucks-page/static/js/main.7a3d73c4.chunk.js.map",
+    "main.css": "/starbucks-page/static/css/main.c0f5a203.chunk.css",
+    "main.js": "/starbucks-page/static/js/main.b7abfc42.chunk.js",
+    "main.js.map": "/starbucks-page/static/js/main.b7abfc42.chunk.js.map",
     "runtime-main.js": "/starbucks-page/static/js/runtime-main.32ae8079.js",
     "runtime-main.js.map": "/starbucks-page/static/js/runtime-main.32ae8079.js.map",
     "static/css/2.95f25948.chunk.css": "/starbucks-page/static/css/2.95f25948.chunk.css",
@@ -10,11 +10,11 @@
     "static/js/2.7b710bbc.chunk.js.map": "/starbucks-page/static/js/2.7b710bbc.chunk.js.map",
     "index.html": "/starbucks-page/index.html",
     "static/css/2.95f25948.chunk.css.map": "/starbucks-page/static/css/2.95f25948.chunk.css.map",
-    "static/css/main.721ba777.chunk.css.map": "/starbucks-page/static/css/main.721ba777.chunk.css.map",
+    "static/css/main.c0f5a203.chunk.css.map": "/starbucks-page/static/css/main.c0f5a203.chunk.css.map",
     "static/js/2.7b710bbc.chunk.js.LICENSE.txt": "/starbucks-page/static/js/2.7b710bbc.chunk.js.LICENSE.txt",
     "static/media/style.css": "/starbucks-page/static/media/flowers-background.23cc7fcb.svg",
     "static/media/bakery.22da106a.jpg": "/starbucks-page/static/media/bakery.22da106a.jpg",
-    "static/media/caramel-blended.13270e9e.png": "/starbucks-page/static/media/caramel-blended.13270e9e.png",
+    "static/media/caramel-blended.ee47ed18.png": "/starbucks-page/static/media/caramel-blended.ee47ed18.png",
     "static/media/coffe-hot.cc9a884b.jpg": "/starbucks-page/static/media/coffe-hot.cc9a884b.jpg",
     "static/media/img-banner-menu.c4973b8a.png": "/starbucks-page/static/media/img-banner-menu.c4973b8a.png",
     "static/media/java-chip.1fbdb255.png": "/starbucks-page/static/media/java-chip.1fbdb255.png",
@@ -32,7 +32,7 @@
     "static/js/runtime-main.32ae8079.js",
     "static/css/2.95f25948.chunk.css",
     "static/js/2.7b710bbc.chunk.js",
-    "static/css/main.721ba777.chunk.css",
-    "static/js/main.7a3d73c4.chunk.js"
+    "static/css/main.c0f5a203.chunk.css",
+    "static/js/main.b7abfc42.chunk.js"
   ]
 }
