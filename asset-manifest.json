@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/starbucks-page/static/css/main.a95de95b.chunk.css",
-    "main.js": "/starbucks-page/static/js/main.2559ab3a.chunk.js",
-    "main.js.map": "/starbucks-page/static/js/main.2559ab3a.chunk.js.map",
+    "main.js": "/starbucks-page/static/js/main.ae715c64.chunk.js",
+    "main.js.map": "/starbucks-page/static/js/main.ae715c64.chunk.js.map",
     "runtime-main.js": "/starbucks-page/static/js/runtime-main.32ae8079.js",
     "runtime-main.js.map": "/starbucks-page/static/js/runtime-main.32ae8079.js.map",
     "static/css/2.95f25948.chunk.css": "/starbucks-page/static/css/2.95f25948.chunk.css",
@@ -33,6 +33,6 @@
     "static/css/2.95f25948.chunk.css",
     "static/js/2.2ab7a739.chunk.js",
     "static/css/main.a95de95b.chunk.css",
-    "static/js/main.2559ab3a.chunk.js"
+    "static/js/main.ae715c64.chunk.js"
   ]
 }
