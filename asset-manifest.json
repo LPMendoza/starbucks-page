@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/starbucks-page/static/css/main.47465e89.chunk.css",
-    "main.js": "/starbucks-page/static/js/main.19caac27.chunk.js",
-    "main.js.map": "/starbucks-page/static/js/main.19caac27.chunk.js.map",
+    "main.css": "/starbucks-page/static/css/main.d8a26452.chunk.css",
+    "main.js": "/starbucks-page/static/js/main.f9384f02.chunk.js",
+    "main.js.map": "/starbucks-page/static/js/main.f9384f02.chunk.js.map",
     "runtime-main.js": "/starbucks-page/static/js/runtime-main.32ae8079.js",
     "runtime-main.js.map": "/starbucks-page/static/js/runtime-main.32ae8079.js.map",
     "static/css/2.95f25948.chunk.css": "/starbucks-page/static/css/2.95f25948.chunk.css",
-    "static/js/2.2ab7a739.chunk.js": "/starbucks-page/static/js/2.2ab7a739.chunk.js",
-    "static/js/2.2ab7a739.chunk.js.map": "/starbucks-page/static/js/2.2ab7a739.chunk.js.map",
+    "static/js/2.9683998a.chunk.js": "/starbucks-page/static/js/2.9683998a.chunk.js",
+    "static/js/2.9683998a.chunk.js.map": "/starbucks-page/static/js/2.9683998a.chunk.js.map",
     "index.html": "/starbucks-page/index.html",
     "static/css/2.95f25948.chunk.css.map": "/starbucks-page/static/css/2.95f25948.chunk.css.map",
-    "static/css/main.47465e89.chunk.css.map": "/starbucks-page/static/css/main.47465e89.chunk.css.map",
-    "static/js/2.2ab7a739.chunk.js.LICENSE.txt": "/starbucks-page/static/js/2.2ab7a739.chunk.js.LICENSE.txt",
+    "static/css/main.d8a26452.chunk.css.map": "/starbucks-page/static/css/main.d8a26452.chunk.css.map",
+    "static/js/2.9683998a.chunk.js.LICENSE.txt": "/starbucks-page/static/js/2.9683998a.chunk.js.LICENSE.txt",
     "static/media/style.css": "/starbucks-page/static/media/flowers-background.23cc7fcb.svg",
     "static/media/bakery.22da106a.jpg": "/starbucks-page/static/media/bakery.22da106a.jpg",
     "static/media/caramel-blended.ee47ed18.png": "/starbucks-page/static/media/caramel-blended.ee47ed18.png",
@@ -31,8 +31,8 @@
   "entrypoints": [
     "static/js/runtime-main.32ae8079.js",
     "static/css/2.95f25948.chunk.css",
-    "static/js/2.2ab7a739.chunk.js",
-    "static/css/main.47465e89.chunk.css",
-    "static/js/main.19caac27.chunk.js"
+    "static/js/2.9683998a.chunk.js",
+    "static/css/main.d8a26452.chunk.css",
+    "static/js/main.f9384f02.chunk.js"
   ]
 }
